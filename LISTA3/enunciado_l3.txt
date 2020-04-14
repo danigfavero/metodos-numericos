@@ -1,0 +1,25 @@
+Bom dia, pessoal!
+
+A Terceira Lista de Exercícios (=EP3 se preferirem) será composta dos seguintes exercícios dos capítulos 14 e 15*:
+
+Cap. 14: Exs. 2, 4, 8, 12
+
+Cap. 15: Exs. 1, 4, 7, 13
+
+Estou considerando que hoje conseguiremos cobrir as seções 14.[2,4], e nas próximas aulas ao menos as seções 15.[1,2,5]. A partir de hoje mesmo já será possível resolver a primeira metade da lista, e as dependências da segunda metade são:
+
+Seção 15.1: Exs. 1, 4
+
+Seção 15.2: Ex. 7
+
+Seção 15.5: Ex. 13
+
+Assim vocês poderão planejar o trabalho em função do progresso das aulas. Uma observação sobre o exercício 8 do capítulo 14 é que ele está recomendado após a seção 14.3, que não será coberta, mas ele na realidade não depende daquela teoria e sim da ideia de obter estimativas de derivadas a partir de polinômios interpoladores, o que já vimos.
+
+A entrega terá que ser em exatamente 2 semanas, dia 25/6 (até 23:55), sem possibilidade de adiamento, pois o tempo de estudo para a prova estará reduzido a apenas 2 dias, o que já é bastante ruim. Sugiro que se organizem para tentar terminar a lista até o domingo dia 23/6, deixando os dias 24-25 como um "adiamento adiantado" pra se precaverem contra o pior caso (não terminar até 23/6).
+
+Bons estudos!
+
+Marcelo
+
+* Do Livro "Uri Ascher e Chen Greif, A First Course in Numerical Methods"
